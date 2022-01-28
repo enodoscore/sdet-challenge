@@ -17,6 +17,7 @@ Develop an automation framework and test scripts to effectively test the followi
   - Write your solution in any programming lanugages to target UI elements and run the tests
   - Provide a brief explaination of how you approached your solution
   - Provide a breif explaination of possible next steps to incorporate your solution into CI/CD
+  - Provide an explaination of how to run your tests
 
 
 ## Goal of Challenge
