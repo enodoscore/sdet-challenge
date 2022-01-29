@@ -5,13 +5,12 @@ Welcome to our Software Development Engineer in Test (SDET) repository. This REA
 Please fork this repo before you start working on the challenge. We will evaluate the code on the fork.
 
 ## Scenario
- You are on a team that has built three new UI pages, and they have asked you to develop an automation framework and write automated tests to incorporate into their continuous integration process
+ You are on a team that has built two new features, and they have asked you to develop an automation framework and write automated tests to incorporate into their continuous integration process. Note they have not tested their pages yet and you may need to take that into consideration. There are no functional requirements for the new features, so use your best judgement on how the features should work.
  
 ## Challenge
 Develop an automation framework and test scripts to effectively test the following web application pages:
   - http://the-internet.herokuapp.com/login
   - http://the-internet.herokuapp.com/inputs
-  - http://the-internet.herokuapp.com/dynamic_loading
   
 ## Requirements
   - Write your solution in any programming lanugages to target UI elements and run the tests
