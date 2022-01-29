@@ -15,6 +15,7 @@ Develop an automation framework and test scripts to effectively test the followi
   
 ## Requirements
   - Write your solution in any programming lanugages to target UI elements and run the tests
+  - Test against your choice of browser. be sure to include the driver of your chosesn browser in your solution.
   - Provide a brief explaination of how you approached your solution
   - Provide a brief explaination of possible next steps to incorporate your solution into CI/CD
   - Provide an explaination of how to run your tests
